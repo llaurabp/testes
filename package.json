@@ -1,0 +1,17 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "tdd-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
